@@ -381,9 +381,6 @@ This project demonstrates:
 GitHub:
 https://github.com/RaghavSingal2002
 
-LinkedIn:
-(Add your LinkedIn profile)
-
 ---
 
 # ⭐ Support
